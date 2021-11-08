@@ -1,4 +1,5 @@
-#Project Title: Forest-Fire-Prediction
+#Project Title: Forest Fire Detection using sensors and Machine Learning
+
 
 #Overview
 Although forest fires or wildfires are a natural occurrence within some forest ecosystem, fire seasons are becoming more extreme and widespread, even in typical rainforests where fires are atypical and very damaging once started. Hotter, drier weather caused by climate change and poor land management create conditions favorable for more frequent, larger and higher-intensity wildfires.
