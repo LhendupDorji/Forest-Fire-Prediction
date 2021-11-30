@@ -28,6 +28,11 @@ Climate change and forest degradation and fragmentation have led to more fire-pr
 12) Rain: outside rain in mm/m2: 0.0 to 6.4
 13) Area: the burned area of the forest (in ha): 0.00 to 1090.84
 
+**How to Run:**
+1. Download Preprocessing.ipynb, Forest Fire Detection Model.ipynb and ForestFire.csv files and store it in one Folder.
+2. Open Jupyter notebook(in Visual Studio or Anaconda Prompt)
+3. Open Preprocessing.ipynb and Run all the cells. At the end, you get new data sets which is preprocessed.
+4. Now, open Forest Fire Detection Model.ipynb and run all cells.
 
 
 
