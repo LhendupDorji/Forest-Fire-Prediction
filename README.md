@@ -1,15 +1,15 @@
-#Project Title: Forest Fire Detection using sensors and Machine Learning
+**Project Title: Forest Fire Detection using sensors and Machine Learning**
 
 
-#Overview
+**Overview**
 Although forest fires or wildfires are a natural occurrence within some forest ecosystem, fire seasons are becoming more extreme and widespread, even in typical rainforests where fires are atypical and very damaging once started. Hotter, drier weather caused by climate change and poor land management create conditions favorable for more frequent, larger and higher-intensity wildfires.
 Climate change and forest degradation and fragmentation have led to more fire-prone conditions globally. With hotter and drier conditions, fires - either ignited by humans or by lightning - are more likely to burn over larger areas and at hotter temperatures.
 
-#Aim: 
+**Aim:** 
 1) Using the model, Predict the area burned for given input sets and Based on Area burned,
 2) Categorize the fire damage into [‘No damage’, ‘Low’, ‘Moderate’,  ‘High’ and ‘Very High’]
 
-#About Data Sets:
+**About Data Sets:**
 ->Available in Link:
   http://archive.ics.uci.edu/ml/datasets/Forest+Fires
 
